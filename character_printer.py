@@ -23,4 +23,4 @@ def single_row_char(char, font, row, black=None, white=' '):
 
 
 default_font = Font("letters5x5.png", monospaced=False)
-print_word("TEST", default_font)
+print_word("TEST TEXT", default_font)
